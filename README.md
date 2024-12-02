@@ -13,16 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width=360px height=260px alt="side_sticker" src="https://www.cs.umd.edu/~tomg/img/landscapes/noshort.png" />
+<img/>
 
 ## About me
 
-✔ Callme: ***He/His*** or just ***Chubbs***  <br>
-✔ I’m currently collaborating in the Scientific Computing research group **MATLAB, FORTRAN, python & a lot of TEX**<br>
-✔ I’m currently learning about **HDG**<br>
-✔ Here it's my mail, reach me if there's anything I can help with or just send hi! **alujan@unal.edu.co**<br>
-✔ Ask me anything you want, I'm glad to help whenever I can!<br>
-✔ Fun fact : *My friends call me a sad soul* <br><br>
+✔️ **Callme:** ***He/His*** <br>  
+💻 **Engineering Student** passionate about technology and continuous learning. <br>  
+⚡ **Key Skills:**  
+  - 🧮 **Data Analysis:** Python, R, Excel, Power BI, Tableau.  
+  - 💻 **Programming:** Python, JavaScript, Java, C, C++.  
+  - 🔌 **Circuits:** Electrical circuit design and analysis, PLC systems.  
+  - 🔐 **Cybersecurity:** Exploring data protection, networks, and IT systems.  
+📫 **Reach me:** [your-email@example.com] <br>  
+❓ **Ask me anything:** I'm glad to help whenever I can! <br>  
+🎉 **Fun fact:** *I’m fascinated by the intersection of technology, innovation, and problem-solving!* <br><br>
 
 ## Some tools I'm used to
 And I'm glad to learn much more!
